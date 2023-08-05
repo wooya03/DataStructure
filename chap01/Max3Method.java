@@ -1,5 +1,4 @@
 package chap01;
-
 public class Max3Method {
     // a,b,c의 최댓값을 구하여 반환
     static int max3(int a, int b, int c){

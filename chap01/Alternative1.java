@@ -20,5 +20,6 @@ public class Alternative1 {
             else
             System.out.print("-");
         }
+        stdIn.close();
     }
 }

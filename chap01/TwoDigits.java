@@ -15,6 +15,6 @@ public class TwoDigits {
         } while (no < 10 || no > 99);
 
         System.out.println("변수 no값은 " + no + "이 되었습니다.");
-
+        stdIn.close();
     }
 }

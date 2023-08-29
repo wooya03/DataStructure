@@ -15,5 +15,6 @@ public class Q13 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

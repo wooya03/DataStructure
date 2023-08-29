@@ -16,7 +16,7 @@ public class Q3 {
         int num = sc.nextInt();
         int[] a = new int[num];
         for(int i = 0; i < num; i ++){
-            System.out.print("height["+i+"]: ");
+            System.out.print("a["+i+"]: ");
             a[i] = sc.nextInt();
         }
 

@@ -17,5 +17,6 @@ class JudgeABC2x {
         System.out.println("C");
         else
             ; // ;만 있는 빈 문장은 아무것도 하지 않는다.
+        stdIn.close();
     }    
 }

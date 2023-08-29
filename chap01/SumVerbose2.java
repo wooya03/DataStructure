@@ -23,5 +23,6 @@ public class SumVerbose2 {
         System.out.print(n +" = ");
         sum += n;
         System.out.println(sum);
+        stdIn.close();
     }
 }

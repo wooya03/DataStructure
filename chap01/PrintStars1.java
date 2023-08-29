@@ -25,5 +25,6 @@ public class PrintStars1 {
         }
         if (n % w != 0)
         System.out.println();
+        stdIn.close();
     }
 }

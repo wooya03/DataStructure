@@ -25,5 +25,6 @@ public class SumVerbose1 {
         }
 
         System.out.println(sum);
+        stdIn.close();
     }
 }

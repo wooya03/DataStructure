@@ -14,5 +14,6 @@ public class Q7 {
         }
 
         System.out.println("1에서 " + n  + "까지의 합 : " + result);
+        stdIn.close();
     }
 }

@@ -18,5 +18,6 @@ public class Alternative2 {
             System.out.print("+-");
         if(n % 2 != 0)
             System.out.print("+");
+        stdIn.close();
     }
 }

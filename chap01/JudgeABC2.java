@@ -15,5 +15,6 @@ class JudgeABC2 {
         System.out.println("B");
         else if (n == 3)
         System.out.println("C");
+        stdIn.close();
     }    
 }

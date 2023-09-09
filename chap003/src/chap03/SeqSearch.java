@@ -1,7 +1,6 @@
 package chap03;
 
 import java.util.Scanner;
-
 public class SeqSearch {
 	static int seqSearch(int[] a, int n, int key) {
 		int i = 0;
